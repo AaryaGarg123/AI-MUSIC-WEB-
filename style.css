@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+}
+canvas{
+    background-color: #000;
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px #73cfd8;
+}
+.heading{
+    font-size: 25px;
+    color:red;
+    background-color: pink;
+}
+
+#sound{
+    color: white;
+    background-color: red;
+}
